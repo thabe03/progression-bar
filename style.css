@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+/* styles.css */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.progress-container {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+.progress-bar {
+    width: 0;
+    height: 4px;
+    background-color: #4caf50;
+}
+
+.content {
+    padding: 20px;
+}
